@@ -16,7 +16,8 @@ A back-end REST API project related to a cloud content management repository for
     
 &nbsp;&nbsp;&nbsp;
 ### ER Diagram 
-![ERD 1](file:///C:/Users/14159/Desktop/NucampFolder/Backend%20Python/3-DevOps/week2/Portfolio%20Project/ER%20Diagram/ERD_1.jpg)
+
+![](../../week2/ERD_1.png)
 
 &nbsp;&nbsp;&nbsp;
 
