@@ -2,7 +2,7 @@
 
 ### Description
 
-A back-end REST API project related to content management repository for a network of hospitals.
+A back-end REST API project related to a cloud content management repository for a network of hospitals.
 **(Front-end UI is outside the scope of the project)**
 
 
