@@ -17,7 +17,7 @@ A back-end REST API project related to a cloud content management repository for
 &nbsp;&nbsp;&nbsp;
 ### ER Diagram 
 
-![ERD_1](https://user-images.githubusercontent.com/11815017/188229548-e8f3bab4-b7f6-44f8-b723-b61d9f9178bb.jpg)
+![ERD_1](https://user-images.githubusercontent.com/11815017/188238637-4060ab20-aa63-4833-9d0e-e970e20094a7.jpg)
 
 &nbsp;&nbsp;&nbsp;
 ![ERD_2](https://user-images.githubusercontent.com/11815017/188229724-6549b493-7106-4841-accd-576c0ecef388.jpg)
