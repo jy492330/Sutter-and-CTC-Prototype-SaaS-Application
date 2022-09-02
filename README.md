@@ -17,12 +17,10 @@ A back-end REST API project related to a cloud content management repository for
 &nbsp;&nbsp;&nbsp;
 ### ER Diagram 
 
-![test](https://raw.githubusercontent.com/../week2/ERD_1.png)
-
+![ERD_1](https://user-images.githubusercontent.com/11815017/188229548-e8f3bab4-b7f6-44f8-b723-b61d9f9178bb.jpg)
 
 &nbsp;&nbsp;&nbsp;
-
-![ERD 2](https://raw.githubusercontent.com/Users/14159/Desktop/NucampFolder/Backend%20Python/3-DevOps/week2/Portfolio%20Project/ER%20Diagram/ERD_2.jpg)
+![ERD_2](https://user-images.githubusercontent.com/11815017/188229724-6549b493-7106-4841-accd-576c0ecef388.jpg)
 
 
 ### Endpoint URL List
