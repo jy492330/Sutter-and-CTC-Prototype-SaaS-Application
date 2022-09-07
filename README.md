@@ -2,8 +2,9 @@
 
 ### Description
 
-A back-end REST API project related to a cloud content management repository for a network of hospitals.
-**(Front-end UI is outside the scope of the project)**
+A back-end REST API project related to a cloud content management repository for a network of hospitals. It aims to provide a range of administrative functionalities and services related to content hosting, tracking and management. 
+Authorized users within the network can access, upload, and download contents based on their access permissions defined in the security group attribute. Admins can look up detailed information of hosted contents by searching for specific metadata, can set up and configure user or group access depending on the hospital or hospitals they are affiliated with. The ER diagram has seven related entities: User, Hosted Content, Uploaded Content, Checkedout Content, Hostpital, Department, Cost Center. They are divided into three API apps. This design decision is to allow decoupling and cohesion among models and views.
+The end goal is to implement a robust list of REST endpoints and a combination of unit & integration tests. **(Front-end UI is outside the scope of the project)**
 
 
 ### Featured Framework and Tools
@@ -49,5 +50,18 @@ A back-end REST API project related to a cloud content management repository for
 ![GET_a list of departments](https://user-images.githubusercontent.com/11815017/188233282-c9ae8dce-0934-4c24-b5df-c92e211b2e09.jpg)
 
 ![GET_a list of cost-centers](https://user-images.githubusercontent.com/11815017/188233348-87b60b76-d0ba-4214-872a-176c26edd59c.jpg)
+
+
+&nbsp;&nbsp;&nbsp;
+### Links Related To My Project:
+LINK TO VIDEO PRESENTATION
+https://drive.google.com/file/d/1-rg23ynuA69pwaWXBENM3AljMlgp2Ss1/view?usp=sharing
+
+LINK TO GITHUB:
+https://github.com/jy492330/DevOps_Project
+
+LINK TO AWS DATABASE:
+http://----------
+
 
 
