@@ -53,12 +53,15 @@ The end goal is to implement a robust list of REST endpoints and a combination o
 
 
 &nbsp;&nbsp;&nbsp;
-### Links Related To My Project:
-LINK TO VIDEO PRESENTATION
-https://drive.google.com/file/d/1-rg23ynuA69pwaWXBENM3AljMlgp2Ss1/view?usp=sharing
+### Links Related To My Project &nbsp;
+
+LINK TO VIDEO PRESENTATION: 
+
+[https://drive.google.com/file/d/1-rg23ynuA69pwaWXBENM3AljMlgp2Ss1/view?usp=sharing](https://drive.google.com/file/d/1-rg23ynuA69pwaWXBENM3AljMlgp2Ss1/view?usp=sharing)
 
 LINK TO GITHUB:
-https://github.com/jy492330/DevOps_Project
+
+[https://github.com/jy492330/DevOps_Project](https://github.com/jy492330/DevOps_Project)
 
 LINK TO AWS DATABASE:
 http://----------
