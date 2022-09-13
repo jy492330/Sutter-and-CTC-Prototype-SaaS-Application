@@ -5,6 +5,7 @@ from contents.models import UploadedContent
 from contents.models import CheckedContent
 
 
+
 class HostedContentSerializer(serializers.ModelSerializer):
     class Meta:
         model = HostedContent

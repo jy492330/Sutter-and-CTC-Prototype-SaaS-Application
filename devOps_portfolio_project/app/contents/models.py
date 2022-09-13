@@ -2,9 +2,10 @@ from operator import mod
 from django.db import models
 
 
+
 class HostedContent(models.Model):
     CONTENT_TYPES = [
-        ['Reports', 'Reports'],
+        ['Reports', 'Reports'],    
         ['Drawings', 'Drawings'],
         ['Specs', 'Specs'],
         ['Other', 'Other'],
@@ -59,10 +60,10 @@ class CheckedContent(models.Model):
     title = models.CharField(max_length=100, unique=False, null=False)
     checkout_date = models.DateField(unique=False, null=False)
     folder_path = models.CharField(max_length=200, unique=False, null=False)
-
+    
     hospital = models.ForeignKey(
         'hospitals.Hospital', related_name="checked_contents", on_delete=models.CASCADE)
-
+    
     users = models.ManyToManyField(
         'users.User', related_name="checked_contents")
 

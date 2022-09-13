@@ -5,6 +5,7 @@ from hospitals.models import Department
 from hospitals.models import Cost_Center
 
 
+
 class HospitalSerializer(serializers.ModelSerializer):
     class Meta:
         model = Hospital

@@ -1,4 +1,4 @@
-# DevOps Portfolio Project (Nucamp)
+# Django Project (Nucamp)
 
 ### Description
 

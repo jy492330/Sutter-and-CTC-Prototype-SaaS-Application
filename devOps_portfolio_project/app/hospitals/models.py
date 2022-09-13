@@ -11,6 +11,7 @@ class Hospital(models.Model):
 
 class Department(models.Model):
     name = models.CharField(max_length=300, unique=False, null=False)
+    
     hospitals = models.ManyToManyField(Hospital, related_name="departments")
 
     def __str__(self):
@@ -20,6 +21,7 @@ class Department(models.Model):
 class Cost_Center(models.Model):
     cc_color = models.CharField(unique=True, null=False, max_length=20)
     cc_code = models.IntegerField(unique=True, null=False)
+
     department = models.OneToOneField(
         Department,
         related_name="cost_center",
