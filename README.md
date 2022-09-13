@@ -23,6 +23,10 @@ The end goal is to implement a robust list of REST endpoints and a combination o
 &nbsp;&nbsp;&nbsp;
 ![ERD_2](https://user-images.githubusercontent.com/11815017/188229724-6549b493-7106-4841-accd-576c0ecef388.jpg)
 
+![Postgres_ERD](https://user-images.githubusercontent.com/11815017/189986197-7802d5c9-9407-49b0-9609-c0394e0edb03.jpg)
+
+
+&nbsp;&nbsp;&nbsp;
 ### Endpoint URL List
 ![API Endpoints](https://user-images.githubusercontent.com/11815017/188231778-e56f405e-e1f8-483e-9208-7c33fd89414d.jpg)
 
