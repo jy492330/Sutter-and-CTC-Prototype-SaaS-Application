@@ -65,7 +65,7 @@ LINK TO VIDEO PRESENTATION:
 
 LINK TO GITHUB:
 
-[https://github.com/jy492330/DevOps_Project](https://github.com/jy492330/DevOps_Project)
+[https://github.com/jy492330/Django_Project.git](https://github.com/jy492330/Django_Project.git)
 
 LINK TO AWS DATABASE:
 http://----------
