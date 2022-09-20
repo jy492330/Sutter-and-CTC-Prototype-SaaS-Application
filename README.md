@@ -65,11 +65,11 @@ LINK TO VIDEO PRESENTATION:
 
 LINK TO GITHUB:
 
-
 [https://github.com/jy492330/DevOps_Project](https://github.com/jy492330/DevOps_Project)
 
 LINK TO AWS DATABASE:
-http://ec2-13-57-7-72.us-west-1.compute.amazonaws.com:8000/api/users/
+
+[http://ec2-13-57-7-72.us-west-1.compute.amazonaws.com:8000/api/users/](http://ec2-13-57-7-72.us-west-1.compute.amazonaws.com:8000/api/users/)
 
 
 
