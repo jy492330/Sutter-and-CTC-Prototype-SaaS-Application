@@ -69,7 +69,7 @@ LINK TO GITHUB:
 
 LINK TO AWS DATABASE:
 
-[http://ec2-13-57-7-72.us-west-1.compute.amazonaws.com:8000/api/users/](http://ec2-13-57-7-72.us-west-1.compute.amazonaws.com:8000/api/users/)
+[http://ec2-13-52-7-52.us-west-1.compute.amazonaws.com:8000/api/users/](http://ec2-13-52-7-52.us-west-1.compute.amazonaws.com:8000/api/users/)
 
 
 
