@@ -2,9 +2,9 @@
 
 ### Description
 
-A back-end REST API project related to a cloud content management repository for a network of hospitals. It aims to provide a range of administrative functionalities and services related to content hosting, tracking and management. 
-Authorized users within the network can access, upload, and download contents based on their access permissions defined in the security group attribute. Admins can look up detailed information of hosted contents by searching for specific metadata, can set up and configure user or group access depending on the hospital or hospitals they are affiliated with. The ER diagram contains seven related entities: User, Hosted Content, Uploaded Content, Checkedout Content, Hostpital, Department, Cost Center. They are divided into three API apps. This design decision is to allow decoupling and cohesion among models and views.
-The end goal is to implement a robust list of REST endpoints and a combination of unit & integration tests. **(Front-end UI is outside the scope of the project)**
+This is a backend REST API Django application used as a content management hosting infrastructure for a network of healthcare facilities. It aims to provide a range of administrative functionalities and services related to content hosting, tracking, archiving and management. 
+Authorized users within the network can access, upload, and download contents based on their access permissions defined in the security group attribute. Admins can look up detailed information of hosted contents by searching for specific metadata, can set up and configure user or group access depending on the hospital or hospitals they are affiliated with. The ER diagram contains seven related entities: User, Hosted Content, Uploaded Content, Checked-out Content, Hospital, Department, Cost Center. They are divided into three API apps. This design decision is to allow decoupling and cohesion among models and views.
+The end goal is to implement a robust list of REST endpoints and a combination of unit & integration tests. **(Frontend UI is outside the scope of the project)**
 
 
 ### Featured Backend Tech Stack
