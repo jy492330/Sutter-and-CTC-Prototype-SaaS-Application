@@ -7,13 +7,15 @@ Authorized users within the network can access, upload, and download contents ba
 The end goal is to implement a robust list of REST endpoints and a combination of unit & integration tests. **(Front-end UI is outside the scope of the project)**
 
 
-### Featured Framework and Tools
+### Featured Backend Tech Stack
 
     * Django 
     * Django REST Framework
+    * Gunicorn
     * Python
     * PostgreSQL
-    * AWS (work-in-progress)
+    * Pytest
+    * AWS 
     
 &nbsp;&nbsp;&nbsp;
 ### ER Diagram 
@@ -70,6 +72,9 @@ LINK TO GITHUB:
 LINK TO AWS DATABASE:
 
 [http://ec2-13-52-7-52.us-west-1.compute.amazonaws.com:8000/api/users/](http://ec2-13-52-7-52.us-west-1.compute.amazonaws.com:8000/api/users/)
+[http://ec2-13-52-7-52.us-west-1.compute.amazonaws.com:8000/api/hosted-contents/](http://ec2-13-52-7-52.us-west-1.compute.amazonaws.com:8000/api/hosted-contents/)
+[http://ec2-13-52-7-52.us-west-1.compute.amazonaws.com:8000/api/hospitals/](http://ec2-13-52-7-52.us-west-1.compute.amazonaws.com:8000/api/hospitals/)
 
+***(Please refer to complete endpoint URL list in README.md or REST API Endpoints.xlsx on GitHub)***
 
 
