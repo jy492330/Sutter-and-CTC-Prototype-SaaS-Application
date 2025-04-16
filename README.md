@@ -1,4 +1,4 @@
-# Django Project (Nucamp 2022)
+# Django Project (2022)
 
 ### Description
 
