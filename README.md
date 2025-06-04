@@ -14,8 +14,10 @@ The end goal is to implement a robust list of REST endpoints and a combination o
     * Gunicorn
     * Python
     * PostgreSQL
+    * SQLite3
     * Pytest
     * AWS 
+    * Docker
     
 &nbsp;&nbsp;&nbsp;
 ### ER Diagram 
