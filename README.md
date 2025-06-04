@@ -1,4 +1,4 @@
-# Sutter & CTC Prototype SaaS Application (2022)
+# Sutter & CTC Prototype SaaS Application
 
 ### Description
 
